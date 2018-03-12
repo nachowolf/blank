@@ -1,0 +1,14 @@
+.container {
+  padding: 10px;
+  align-content: center;
+  width: 25%;
+  word-break: keep-all;
+}
+
+
+img{
+    float: center;
+    border-radius: 25px;
+    max-width: 100%;
+
+}
